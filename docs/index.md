@@ -2,8 +2,11 @@
 
 Welcome to the documentation for the Full-Stack Web Developer Course. This comprehensive guide provides detailed information about each lesson in the course.
 
+> 📚 **New to the course?** Start with our [Preparatory Materials](./lesson-0-elementary.md) to ensure you meet all prerequisites.
+
 ## Course Lessons
 
+0. [Prerequisites and Environment Setup](./lesson-0-elementary.md)
 1. [Mastering React Fundamentals - Components, Hooks, and State Management](./lesson-1-react-fundamentals.md)
 2. [Next.js Foundations - Architecture, Routing, and Project Configuration](./lesson-2-nextjs-basics.md)
 3. [Advanced Next.js - Rendering Strategies, Data Fetching, and Optimization](./lesson-3-nextjs-full.md)

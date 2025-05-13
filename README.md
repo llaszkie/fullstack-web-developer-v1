@@ -37,6 +37,8 @@ This repository is organized to support a progressive learning journey:
 
 ## Prerequisites
 
+> 🎓 **New to any of these topics?** Check out our [Preparatory Materials](./docs/lesson-0-elementary.md) to get up to speed!
+
 - Intermediate TypeScript knowledge
 - Basic understanding of web development concepts
 - Familiarity with Git and GitHub
