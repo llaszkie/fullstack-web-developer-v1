@@ -147,7 +147,7 @@ Before starting the main course, ensure you can:
 
 - [Understanding TypeScript (Udemy)](https://www.udemy.com/course/understanding-typescript/) - Comprehensive TypeScript course
 - [TypeScript Deep Dive (GitBook)](https://basarat.gitbook.io/typescript/) - Free in-depth TypeScript guide
-- [Microsoft's TypeScript Tutorial Series](https://www.youtube.com/playlist?list=PLlrxD0HtieHg7fUUVExY7XBAFRwpSYwwV) - Official TypeScript tutorials
+- [TypeScript Full Course for Beginners](https://www.youtube.com/watch?v=gieEQFIfgYc&ab_channel=DaveGray) - TypeScript tutorials
 
 #### Modern JavaScript
 
