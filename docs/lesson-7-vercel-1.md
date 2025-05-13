@@ -1,4 +1,4 @@
-# Lesson 6: Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing
+# Lesson 7: Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing
 
 ## Overview
 
@@ -70,4 +70,4 @@ This lesson introduces the Vercel platform for cloud deployment and explores the
 
 ## Next Steps
 
-Continue to [Lesson 7: Building a Composable Tech Stack - Serverless Functions, Integrations & Observability](./lesson-7-vercel-2.md) to explore the Vercel ecosystem, integrations, serverless functions, and monitoring capabilities.
+Continue to [Lesson 8: Building a Composable Tech Stack - Serverless Functions, Integrations & Observability](./lesson-8-vercel-2.md) to explore the Vercel ecosystem, integrations, serverless functions, and monitoring capabilities.
