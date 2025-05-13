@@ -56,25 +56,37 @@ Essential skills include:
 
 ### Node.js Setup with nvm
 
-1. Install nvm:
+First, we'll set up [Node Version Manager (nvm)](https://github.com/nvm-sh/nvm) to manage our [Node.js](https://nodejs.org/) installation. Using nvm makes it easy to switch between different Node.js versions as needed.
+
+1. Visit the [nvm installation guide](https://github.com/nvm-sh/nvm#installing-and-updating) for the latest installation command. You can install nvm by running the install script:
 
 ```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+# The curl command below will always fetch the latest version
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
 ```
 
-2. Install and use the latest LTS version:
+2. After installation, restart your terminal or run:
 
 ```bash
-nvm install --lts
-nvm use --lts
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 ```
 
-3. Verify installation:
+3. Install and use the latest LTS (Long Term Support) version of Node.js:
 
 ```bash
-node --version
-npm --version
+nvm install --lts      # Installs the latest LTS version
+nvm use --lts         # Uses the installed LTS version
 ```
+
+4. Verify your installation:
+
+```bash
+node --version        # Should show the LTS version number
+npm --version         # Should show the npm version that comes with Node.js
+```
+
+> 💡 **Tip**: You can list all available Node.js versions with `nvm ls-remote` and install a specific version with `nvm install <version>`. For this course, any recent LTS version (20.x or newer) will work fine.
 
 ### Development Environment
 
