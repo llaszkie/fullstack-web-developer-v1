@@ -2,7 +2,7 @@
 
 ## Overview
 
-This lesson introduces the core concepts of React 19, focusing on building a solid foundation for modern web application development.
+This lesson introduces the core concepts of React 18/19, focusing on building a solid foundation for modern web application development.
 
 ## Learning Objectives
 
@@ -16,7 +16,7 @@ This lesson introduces the core concepts of React 19, focusing on building a sol
 
 ### Components and JSX
 
-- Functional components vs. class components
+- Vanilla React and Functional components
 - JSX syntax and expressions
 - Component composition and props
 
@@ -40,9 +40,12 @@ This lesson introduces the core concepts of React 19, focusing on building a sol
 
 ## Exercises
 
-1. Create a simple counter application using useState
-2. Build a todo list with add, remove, and complete functionality
-3. Implement a form with validation using controlled components
+The exercises for this lesson are based on Brian Holt's "Complete Intro to React v9" course materials. You can find the exercises and course content in the following repository:
+
+[Complete Intro to React, v9 Course](https://github.com/llaszkie/complete-intro-to-react-v9)
+[Complete Intro to React, v9 Exercises](https://github.com/llaszkie/citr-v9-project)
+
+Please clone the repository and follow along with the course materials for hands-on practice with React fundamentals.
 
 ## Additional Resources
 
