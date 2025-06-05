@@ -4,21 +4,6 @@ This lesson is designed to help you prepare for the Full-Stack Web Developer cou
 
 ## Required Knowledge Check
 
-### TypeScript Fundamentals
-
-To succeed in this course, you should be comfortable with:
-
-- Basic types and interfaces
-- Generics
-- Type inference and type assertions
-- Module system
-
-**Resources to Get Up to Speed:**
-
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [TypeScript Exercise Challenges](https://typescript-exercises.github.io/)
-- Practice Project: Convert a small JavaScript project to TypeScript
-
 ### Web Development Fundamentals
 
 You should understand:
@@ -36,6 +21,21 @@ You should understand:
 - [JavaScript.info](https://javascript.info/)
 - [CSS Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
+
+### TypeScript Fundamentals
+
+To succeed in this course, you should be comfortable with:
+
+- Basic types and interfaces
+- Generics
+- Type inference and type assertions
+- Module system
+
+**Resources to Get Up to Speed:**
+
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [TypeScript Exercise Challenges](https://typescript-exercises.github.io/)
+- Practice Project: Convert a small JavaScript project to TypeScript
 
 ### Git & GitHub
 
