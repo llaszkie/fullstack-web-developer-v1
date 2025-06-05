@@ -1,16 +1,16 @@
-# Lesson 3: Advanced Next.js - App Router, Server Components, and Optimization
+# Lesson 3: Advanced Next.js - Building a Full-Stack Dashboard Application
 
 ## Overview
 
-This lesson explores advanced Next.js features and capabilities with the modern App Router, building on the foundation established in the previous lesson.
+This lesson guides you through building a full-stack application using Next.js App Router and modern React features. Following the official Next.js Dashboard tutorial, you'll create a comprehensive financial dashboard while learning advanced Next.js concepts.
 
 ## Learning Objectives
 
-- Master Next.js App Router architecture and conventions
-- Implement React Server Components and Client Components
-- Utilize data fetching patterns with Server Components
-- Optimize images, fonts, and assets
-- Implement advanced routing patterns
+- Master Next.js App Router architecture and patterns
+- Build a full-stack application with authentication
+- Implement advanced data fetching patterns
+- Create dynamic, interactive UI components
+- Deploy a production-ready application
 
 ## Key Concepts
 
@@ -20,55 +20,92 @@ This lesson explores advanced Next.js features and capabilities with the modern 
 - Server Components vs. Client Components
 - Route groups and layouts
 - Parallel routes and intercepting routes
-- Loading and error states
+- Loading UI and error handling
+- Authentication and middleware
 
-### Rendering Patterns
+### Dashboard Implementation
 
-- Server Components (default in App Router)
-- Client Components with "use client" directive
-- Streaming and Suspense
-- Static and Dynamic rendering
-- Incremental Static Regeneration (ISR) with revalidation
+- Project Structure and Setup
 
-### Data Fetching
+  - Setting up a new Next.js project
+  - Configuring TypeScript and Tailwind CSS
+  - Database setup with Postgres
+  - Authentication with NextAuth.js
 
-- Server Component data fetching (async/await)
-- Route handlers for API endpoints
-- React Server Actions for mutations
-- Caching and revalidation strategies
-- Client-side data fetching with SWR or TanStack Query
+- UI Components and Styling
 
-### API Development
+  - Creating reusable components
+  - Implementing responsive layouts
+  - Styling with Tailwind CSS
+  - Building dynamic forms
 
-- Route handlers in the App Router
-- Request and response handling
-- Middleware implementation
-- Error handling and validation
-- CORS and security considerations
+- Data Management
+  - Server Component data fetching
+  - React Server Actions for mutations
+  - Search and pagination
+  - Real-time updates
+  - Error handling
 
-### Asset Optimization
+### Advanced Features
 
-- Next.js Image component with automatic optimization
-- Font optimization with next/font
-- Static asset handling
-- CSS modules and styling approaches
-- Metadata API for SEO
+- Authentication Flow
+
+  - Protected routes
+  - User sessions
+  - Login and logout
+  - Role-based access
+
+- Database Integration
+
+  - Setting up Postgres on Vercel
+  - Database schema design
+  - CRUD operations
+  - Data validation
+
+- Performance Optimization
+  - Streaming with Suspense
+  - Partial prerendering
+  - Route caching strategies
+  - Static and dynamic rendering
 
 ## Exercises
 
-1. Create a blog with Server Components and dynamic routes
-2. Implement route handlers and consume them from Server Components
-3. Optimize images and implement loading states with Suspense
-4. Add client-side data mutations with Server Actions
+1. Set up the Dashboard Project:
+
+   - Initialize Next.js with App Router
+   - Configure TypeScript and Tailwind
+   - Set up the database
+   - Implement authentication
+
+2. Build Core Dashboard Features:
+
+   - Create the dashboard layout
+   - Implement protected routes
+   - Add data fetching and mutations
+   - Create interactive forms
+
+3. Implement Advanced Features:
+
+   - Add search and pagination
+   - Implement error handling
+   - Add loading states
+   - Create dynamic charts
+
+4. Optimize and Deploy:
+   - Implement performance optimizations
+   - Add error boundaries
+   - Deploy to Vercel
+   - Monitor performance
 
 ## Additional Resources
 
-- [Next.js App Router Documentation](https://nextjs.org/docs/app)
+- [Next.js Dashboard Tutorial](https://nextjs.org/learn/dashboard-app)
+- [App Router Documentation](https://nextjs.org/docs/app)
 - [Server Components and Data Fetching](https://nextjs.org/docs/app/building-your-application/data-fetching)
-- [Route Handlers Documentation](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
-- [Image Component and Optimization](https://nextjs.org/docs/app/building-your-application/optimizing/images)
-- [Server Actions Documentation](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations)
+- [Authentication Documentation](https://nextjs.org/docs/app/building-your-application/authentication)
+- [Postgres with Vercel](https://vercel.com/docs/storage/vercel-postgres)
+- [NextAuth.js Documentation](https://next-auth.js.org)
 
 ## Next Steps
 
-Continue to [Lesson 4: Enterprise React Architecture - Backend for Frontend (BFF) Pattern & Secure Authentication](./lesson-4-enterprise-react-1.md) to learn about providing APIs with Next.js as a Backend for Frontend (BFF) and implementing authentication.
+Continue to [Lesson 4: Enterprise React Architecture - Backend for Frontend (BFF) Pattern & Secure Authentication](./lesson-4-enterprise-react-1.md) to learn about providing APIs with Next.js as a Backend for Frontend (BFF) and implementing advanced authentication patterns.

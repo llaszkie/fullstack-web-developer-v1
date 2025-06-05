@@ -8,8 +8,8 @@ Welcome to the documentation for the Full-Stack Web Developer Course. This compr
 
 0. [Prerequisites and Environment Setup](./lesson-0-elementary.md)
 1. [Mastering React Fundamentals - Components, Hooks, and State Management](./lesson-1-react-fundamentals.md)
-2. [Next.js Foundations - Architecture, Routing, and Project Configuration](./lesson-2-nextjs-basics.md)
-3. [Advanced Next.js - Rendering Strategies, Data Fetching, and Optimization](./lesson-3-nextjs-full.md)
+2. [Next.js Foundations - Architecture and SEO Optimization](./lesson-2-nextjs-basics.md)
+3. [Advanced Next.js - Building a Full-Stack Dashboard Application](./lesson-3-nextjs-full.md)
 4. [Enterprise React Architecture - Backend for Frontend (BFF) Pattern & Secure Authentication](./lesson-4-enterprise-react-1.md)
 5. [Global-Ready Applications - Internationalization, Progressive Web Apps & Containerized Deployment](./lesson-5-enterprise-react-2.md)
 6. [Quality Engineering - Comprehensive Testing, Security Compliance & Performance Optimization](./lesson-6-qa-testing.md)
