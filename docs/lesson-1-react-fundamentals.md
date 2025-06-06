@@ -42,8 +42,8 @@ This lesson introduces the core concepts of React 18/19, focusing on building a 
 
 The exercises for this lesson are based on Brian Holt's "Complete Intro to React v9" course materials. You can find the exercises and course content in the following repository:
 
-[Complete Intro to React, v9 Course](https://github.com/llaszkie/complete-intro-to-react-v9)
-[Complete Intro to React, v9 Exercises](https://github.com/llaszkie/citr-v9-project)
+- [Complete Intro to React, v9 Course](https://github.com/llaszkie/complete-intro-to-react-v9)
+- [Complete Intro to React, v9 Exercises](https://github.com/llaszkie/citr-v9-project)
 
 Please clone the repository and follow along with the course materials for hands-on practice with React fundamentals.
 

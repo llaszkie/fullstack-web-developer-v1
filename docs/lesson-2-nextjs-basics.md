@@ -91,8 +91,8 @@ The exercises for this lesson are based on the official Next.js React Foundation
 
 - [Next.js Learn - React Foundations](https://nextjs.org/learn/react-foundations)
 - [Next.js Learn - SEO](https://nextjs.org/learn/seo)
--
-- Please follow the tutorial and complete all chapters to get hands-on practice with React in Next.js context.
+
+Please follow the tutorial and complete all chapters to get hands-on practice with React in Next.js context.
 
 ## Additional Resources
 
