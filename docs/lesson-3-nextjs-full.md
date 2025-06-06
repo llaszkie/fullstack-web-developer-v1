@@ -70,41 +70,18 @@ This lesson guides you through building a full-stack application using Next.js A
 
 ## Exercises
 
-1. Set up the Dashboard Project:
+The exercises for this lesson are based on the official Next.js Dashboard App tutorial. You can find the exercises and course content here:
 
-   - Initialize Next.js with App Router
-   - Configure TypeScript and Tailwind
-   - Set up the database
-   - Implement authentication
+[Next.js Dashboard App Tutorial](https://nextjs.org/learn/dashboard-app)
+[Next.js Dashboard Template](https://github.com/vercel/next-learn/tree/main/dashboard)
 
-2. Build Core Dashboard Features:
-
-   - Create the dashboard layout
-   - Implement protected routes
-   - Add data fetching and mutations
-   - Create interactive forms
-
-3. Implement Advanced Features:
-
-   - Add search and pagination
-   - Implement error handling
-   - Add loading states
-   - Create dynamic charts
-
-4. Optimize and Deploy:
-   - Implement performance optimizations
-   - Add error boundaries
-   - Deploy to Vercel
-   - Monitor performance
+Please clone the template repository and follow along with the course materials for hands-on practice with building a full-stack Next.js application.
 
 ## Additional Resources
 
-- [Next.js Dashboard Tutorial](https://nextjs.org/learn/dashboard-app)
-- [App Router Documentation](https://nextjs.org/docs/app)
-- [Server Components and Data Fetching](https://nextjs.org/docs/app/building-your-application/data-fetching)
-- [Authentication Documentation](https://nextjs.org/docs/app/building-your-application/authentication)
-- [Postgres with Vercel](https://vercel.com/docs/storage/vercel-postgres)
-- [NextAuth.js Documentation](https://next-auth.js.org)
+- [Next.js App Router Documentation](https://nextjs.org/docs/app)
+- [Next.js Authentication Guide](https://nextjs.org/learn/dashboard-app/adding-authentication)
+- [Next.js with PostgreSQL Guide](https://vercel.com/guides/postgresql-with-nextjs)
 
 ## Next Steps
 

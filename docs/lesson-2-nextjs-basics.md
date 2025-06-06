@@ -87,35 +87,18 @@ This lesson introduces Next.js as a React framework, focusing on fundamental set
 
 ## Exercises
 
-1. Complete the "React Foundations" chapter from the official Next.js tutorial
-2. Create a new Next.js 14+ project with TypeScript and implement:
-   - Basic routing structure
-   - Semantic HTML components
-   - robots.txt and sitemap.xml
-3. Implement comprehensive SEO features:
-   - Dynamic metadata generation
-   - JSON-LD structured data
-   - Open Graph and Twitter Card tags
-   - Canonical URL management
-4. Optimize performance:
-   - Implement image optimization
-   - Configure font optimization
-   - Set up Core Web Vitals monitoring
-5. Create an SEO report template to track:
-   - Technical SEO metrics
-   - Core Web Vitals
-   - Search rankings
-   - Social media engagement
+The exercises for this lesson are based on the official Next.js React Foundations tutorial. You can find the exercises and course content here:
+
+[Next.js React Foundations Tutorial](https://nextjs.org/learn/react-foundations)
+[Next.js App Router Documentation](https://nextjs.org/docs)
+
+Please follow the tutorial and complete all chapters to get hands-on practice with React in Next.js context.
 
 ## Additional Resources
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Next.js Learn - React Foundations](https://nextjs.org/learn/react-foundations)
-- [Next.js Learn - SEO](https://nextjs.org/learn/seo)
-- [Google Search Console](https://search.google.com/search-console)
-- [Schema.org Documentation](https://schema.org/)
-- [Core Web Vitals](https://web.dev/vitals/)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [Next.js Official Documentation](https://nextjs.org/docs)
+- [Next.js Learn Platform](https://nextjs.org/learn)
+- [Next.js SEO Documentation](https://nextjs.org/learn/seo/introduction)
 
 ## Next Steps
 
