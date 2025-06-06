@@ -54,17 +54,55 @@ This lesson focuses on using Next.js as a Backend for Frontend (BFF) to provide 
 
 ## Exercises
 
-1. Create a Next.js BFF with CRUD operations
-2. Implement JWT authentication with NextAuth.js
-3. Add social login (Google, GitHub)
-4. Implement role-based route protection
+The exercises for this lesson are based on building a full-stack Next.js application that implements the BFF pattern. Follow these tutorials in order:
+
+1. [How to Build a Fullstack App with Next.js, Prisma, and Postgres](https://vercel.com/guides/nextjs-prisma-postgres)
+
+   - Complete guide to building a full-stack application
+   - Learn proper Next.js project structure
+   - Implement authentication with NextAuth.js
+   - Deploy to production with Vercel
+
+2. [Input Validation with Prisma Client Extensions](https://www.prisma.io/docs/orm/prisma-client/queries/custom-validation#input-validation-with-prisma-client-extensions)
+
+   - Implement request validation using Zod
+   - Create type-safe database queries
+   - Add validation at the database layer
+   - Handle validation errors properly
+
+3. [Creating Session Store with Redis and Next.js](https://vercel.com/guides/session-store-nextjs-redis-vercel-kv)
+
+   - Implement secure session management
+   - Learn about state persistence
+   - Handle authentication data properly
+
+4. [Connection Pooling with Serverless Functions](https://vercel.com/guides/connection-pooling-with-serverless-functions)
+   - Learn best practices for database connections
+   - Optimize API performance
+   - Handle concurrent requests efficiently
+
+5. [Building a REST API with Next.js](https://nextjs.org/blog/building-apis-with-nextjs)
+   - Learn to build secure API routes with Next.js
+   - Implement authentication middleware
+   - Create protected API endpoints
+   - Handle external API integration
+   - Use proper error handling and status codes
+
+The combination of these tutorials will give you hands-on experience with:
+
+- Building a proper BFF architecture
+- Implementing secure authentication
+- Validating API requests with Zod
+- Managing database connections
+- Following best practices for production deployment
 
 ## Additional Resources
 
+- [Next.js Route Handlers Documentation](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
 - [NextAuth.js Documentation](https://next-auth.js.org/)
-- [Next.js API Routes Documentation](https://nextjs.org/docs/api-routes/introduction)
-- [JSON Web Tokens (JWT)](https://jwt.io/introduction)
+- [Prisma Documentation](https://www.prisma.io/docs)
 - [Zod Documentation](https://github.com/colinhacks/zod)
+- [Next.js Middleware Documentation](https://nextjs.org/docs/app/building-your-application/routing/middleware)
 
 ## Next Steps
 
