@@ -48,10 +48,59 @@ This lesson covers advanced enterprise features including internationalization, 
 
 ## Exercises
 
-1. Add multi-language support to a Next.js application
-2. Convert a Next.js app to a PWA with offline support
-3. Create a production-ready Dockerfile for a Next.js application
-4. Set up a GitHub Actions workflow for CI/CD
+Follow these tutorials in order to implement global-ready features in your Next.js application:
+
+1. Build a Multi-language Next.js Application
+   Follow these tutorials in sequence:
+
+   - [Built-in i18n Routing in Next.js](https://nextjs.org/docs/app/building-your-application/routing/internationalization)
+   - [Complete Application with next-intl](https://next-intl-docs.vercel.app/docs/getting-started/app-router)
+
+   Implementation steps:
+
+   - Set up basic i18n routing with Next.js
+   - Integrate next-intl for message handling
+   - Create type-safe translations
+   - Implement automatic language detection
+   - Handle date, number, and currency formatting
+   - Build a language switcher with locale persistence
+   - Set up SEO-friendly metadata for each language
+
+2. Progressive Web App with Next.js
+   Follow these resources in sequence:
+   - [Official Next.js PWA Guide](https://nextjs.org/docs/app/guides/progressive-web-apps)
+   - [Building a PWA with Next.js (Video Tutorial)](https://www.youtube.com/watch?v=2ipasAxK5H8)
+
+   Implementation steps:
+   - Configure next-pwa for your application
+   - Add offline support with service workers
+   - Create app manifest and icons
+   - Implement push notifications
+   - Test PWA functionality and installation
+   - Add offline fallback pages
+   - Configure background sync
+
+3. [Dockerizing Next.js Applications](https://github.com/vercel/next.js/tree/canary/examples/with-docker)
+
+   - Create an optimized Dockerfile for Next.js
+   - Configure multi-stage builds for production
+   - Set up Docker Compose for development
+   - Handle environment variables securely
+   - Implement cache optimization strategies
+
+4. [GitHub Actions for Next.js](https://staticmania.com/blog/how-to-deploy-next-js-application-with-github-action)
+   - Set up automated testing workflow
+   - Configure build and deployment pipeline
+   - Manage environment secrets
+   - Add pull request previews
+   - Implement continuous deployment
+
+The combination of these tutorials will give you hands-on experience with:
+
+- Building globally accessible applications
+- Implementing offline-first capabilities
+- Creating production-ready containers
+- Setting up automated deployment pipelines
 
 ## Additional Resources
 
