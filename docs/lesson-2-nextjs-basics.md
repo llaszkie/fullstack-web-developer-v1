@@ -89,16 +89,15 @@ This lesson introduces Next.js as a React framework, focusing on fundamental set
 
 The exercises for this lesson are based on the official Next.js React Foundations tutorial. You can find the exercises and course content here:
 
-[Next.js React Foundations Tutorial](https://nextjs.org/learn/react-foundations)
-[Next.js App Router Documentation](https://nextjs.org/docs)
-
-Please follow the tutorial and complete all chapters to get hands-on practice with React in Next.js context.
+- [Next.js Learn - React Foundations](https://nextjs.org/learn/react-foundations)
+- [Next.js Learn - SEO](https://nextjs.org/learn/seo)
+-
+- Please follow the tutorial and complete all chapters to get hands-on practice with React in Next.js context.
 
 ## Additional Resources
 
 - [Next.js Official Documentation](https://nextjs.org/docs)
-- [Next.js Learn Platform](https://nextjs.org/learn)
-- [Next.js SEO Documentation](https://nextjs.org/learn/seo/introduction)
+- [Google Search Console](https://search.google.com/search-console)
 
 ## Next Steps
 
