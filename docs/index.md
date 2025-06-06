@@ -31,6 +31,43 @@ _Advanced cloud architecture and cutting-edge technologies_
 8. [Building a Composable Tech Stack - Serverless Functions, Integrations & Observability](./lesson-8-vercel-2.md)
 9. [Exploring the Cutting Edge - Vercel AI and the Future of Web Development](./lesson-9-bonus-v0.md)
 
+## Level Assessments
+
+Each level concludes with a practical assessment to verify acquired skills and prepare for the next level.
+
+### Level 1 Assessment: Full-Stack Dashboard
+
+Build a full-stack Next.js dashboard application that demonstrates:
+
+- React component composition and custom hooks
+- Server and client-side data fetching
+- Basic authentication and protected routes
+- Dynamic routing and API routes
+- Database integration with Prisma
+
+### Level 2 Assessment: Enterprise Features
+
+Enhance your Level 1 application with enterprise features:
+
+- Implement BFF pattern with protected API routes
+- Add multi-language support with next-intl
+- Convert to PWA with offline capabilities
+- Containerize with Docker and Docker Compose
+- Add comprehensive test coverage (unit, integration, e2e)
+- Implement security best practices and performance optimization
+
+### Level 3 Assessment: Cloud Deployment & Scaling
+
+Deploy and scale your application with advanced cloud features:
+
+- Deploy to Vercel with GitHub integration and preview deployments
+- Implement Edge Functions for geolocation and A/B testing
+- Add serverless functions for backend processing
+- Set up monitoring and observability
+- Integrate AI capabilities (chat, image generation, etc.)
+- Implement advanced caching and performance optimization
+- Create a complete CI/CD pipeline with automated testing
+
 ## How to Use This Documentation
 
 Each lesson documentation includes:
