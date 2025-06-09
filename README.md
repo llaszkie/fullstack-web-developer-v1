@@ -2,6 +2,8 @@
 
 This repository contains the code base for an instructor-accompanied course aimed at up-skilling towards full-stack development leveraging modern web technologies.
 
+![Three rustic wheels of cheese stacked on a wooden board with a colorful, blurred mural of fruits and vegetables in the background, creating a vibrant and artisanal atmosphere](images/cheese-1433523_1920.jpg)
+
 ## Course Overview
 
 This comprehensive course is designed to transform intermediate developers into proficient full-stack engineers through hands-on projects and guided instruction. Participants will learn to build, deploy, and scale web applications using the latest industry-standard tools and frameworks.
