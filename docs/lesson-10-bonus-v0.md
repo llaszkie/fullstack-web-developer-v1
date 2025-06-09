@@ -1,4 +1,4 @@
-# Lesson 9: Exploring the Cutting Edge - Vercel AI and the Future of Web Development
+# Lesson 10: Exploring the Cutting Edge - Vercel AI and the Future of Web Development
 
 ## Overview
 

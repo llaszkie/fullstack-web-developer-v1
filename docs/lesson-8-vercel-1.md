@@ -1,4 +1,4 @@
-# Lesson 7: Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing
+# Lesson 8: Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing
 
 ## Overview
 
@@ -60,11 +60,13 @@ Follow these tutorials to master Vercel deployment and Edge computing capabiliti
 
 1. Deploy and Configure a Next.js Application
    Follow these guides in sequence:
+
    - [Deploy Your First Next.js App](https://nextjs.org/learn/basics/deploying-nextjs-app)
    - [Vercel CLI and Project Configuration](https://vercel.com/docs/cli)
    - [Custom Domain Configuration](https://vercel.com/docs/concepts/projects/domains/add-a-domain)
-   
+
    Implementation steps:
+
    - Set up a Vercel account and install CLI
    - Deploy your Next.js application
    - Configure custom domains and HTTPS
@@ -73,11 +75,13 @@ Follow these tutorials to master Vercel deployment and Edge computing capabiliti
 
 2. Advanced Deployment Workflows
    Follow these resources:
+
    - [Git Integration Guide](https://vercel.com/docs/concepts/git/vercel-for-github)
    - [Preview Deployment Features](https://vercel.com/docs/concepts/deployments/preview-deployments)
    - [Branch Protection and Checks](https://vercel.com/docs/concepts/git/branch-protection)
 
    Implementation steps:
+
    - Connect your GitHub repository
    - Set up preview deployments
    - Configure deployment checks
@@ -86,11 +90,13 @@ Follow these tutorials to master Vercel deployment and Edge computing capabiliti
 
 3. Edge Computing and Middleware
    Follow these tutorials:
+
    - [Edge Middleware Guide](https://vercel.com/docs/concepts/functions/edge-middleware)
    - [Edge Functions Examples](https://vercel.com/docs/functions/edge-functions/quickstart)
    - [Edge Config Tutorial](https://vercel.com/docs/storage/edge-config/get-started)
-   
+
    Implementation steps:
+
    - Create Edge Middleware for geolocation
    - Implement A/B testing at the edge
    - Add country-based redirects
@@ -99,11 +105,13 @@ Follow these tutorials to master Vercel deployment and Edge computing capabiliti
 
 4. Performance Monitoring
    Complete these guides:
+
    - [Speed Insights Setup](https://vercel.com/docs/concepts/speed-insights)
    - [Web Analytics Integration](https://vercel.com/docs/concepts/analytics)
    - [Core Web Vitals Guide](https://vercel.com/blog/core-web-vitals)
-   
+
    Implementation steps:
+
    - Set up Speed Insights
    - Configure Web Analytics
    - Monitor Core Web Vitals
@@ -111,6 +119,7 @@ Follow these tutorials to master Vercel deployment and Edge computing capabiliti
    - Implement real user monitoring
 
 The combination of these tutorials will give you hands-on experience with:
+
 - Production-grade deployment workflows
 - Edge computing capabilities
 - Performance optimization
@@ -126,4 +135,4 @@ The combination of these tutorials will give you hands-on experience with:
 
 ## Next Steps
 
-Continue to [Lesson 8: Building a Composable Tech Stack - Serverless Functions, Integrations & Observability](./lesson-8-vercel-2.md) to explore the Vercel ecosystem, integrations, serverless functions, and monitoring capabilities.
+Continue to [Lesson 9: Building a Composable Tech Stack - Serverless Functions, Integrations & Observability](./lesson-9-vercel-2.md) to explore the Vercel ecosystem, integrations, serverless functions, and monitoring capabilities.

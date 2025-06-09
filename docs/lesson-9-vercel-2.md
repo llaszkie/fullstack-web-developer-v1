@@ -1,4 +1,4 @@
-# Lesson 8: Building a Composable Tech Stack - Serverless Functions, Integrations & Observability
+# Lesson 9: Building a Composable Tech Stack - Serverless Functions, Integrations & Observability
 
 ## Overview
 
@@ -71,4 +71,4 @@ This lesson dives deeper into the Vercel ecosystem, exploring integrations, serv
 
 ## Next Steps
 
-Continue to [Lesson 9: Exploring the Cutting Edge - Vercel AI and the Future of Web Development](./lesson-9-bonus-v0.md) to discover emerging technologies and future trends in web development.
+Continue to [Lesson 10: Exploring the Cutting Edge - Vercel AI and the Future of Web Development](./lesson-10-bonus-v0.md) to discover emerging technologies and future trends in web development.

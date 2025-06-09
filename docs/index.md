@@ -14,22 +14,23 @@ _Build core competencies in React and Next.js_
 1. [Mastering React Fundamentals - Components, Hooks, and State Management](./lesson-1-react-fundamentals.md)
 2. [Next.js Foundations - Architecture and SEO Optimization](./lesson-2-nextjs-basics.md)
 3. [Advanced Next.js - Building a Full-Stack Dashboard Application](./lesson-3-nextjs-full.md)
+4. [Building Modern UIs with Component Libraries](./lesson-4-ui-libraries.md)
 
 ### Level 2: Professional Development 🚀
 
 _Master enterprise patterns and global application development_
 
-4. [Enterprise React Architecture - Backend for Frontend (BFF) Pattern & Secure Authentication](./lesson-4-enterprise-react-1.md)
-5. [Global-Ready Applications - Internationalization, Progressive Web Apps & Containerized Deployment](./lesson-5-enterprise-react-2.md)
-6. [Quality Engineering - Comprehensive Testing, Security Compliance & Performance Optimization](./lesson-6-qa-testing.md)
+5. [Enterprise React Architecture - Backend for Frontend (BFF) Pattern & Secure Authentication](./lesson-5-enterprise-react-1.md)
+6. [Global-Ready Applications - Internationalization, Progressive Web Apps & Containerized Deployment](./lesson-6-enterprise-react-2.md)
+7. [Quality Engineering - Comprehensive Testing, Security Compliance & Performance Optimization](./lesson-7-qa-testing.md)
 
 ### Level 3: Expert Engineering 🎯
 
 _Advanced cloud architecture and cutting-edge technologies_
 
-7. [Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing](./lesson-7-vercel-1.md)
-8. [Building a Composable Tech Stack - Serverless Functions, Integrations & Observability](./lesson-8-vercel-2.md)
-9. [Exploring the Cutting Edge - Vercel AI and the Future of Web Development](./lesson-9-bonus-v0.md)
+8. [Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing](./lesson-8-vercel-1.md)
+9. [Building a Composable Tech Stack - Serverless Functions, Integrations & Observability](./lesson-9-vercel-2.md)
+10. [Exploring the Cutting Edge - Vercel AI and the Future of Web Development](./lesson-10-bonus-v0.md)
 
 ## Level Assessments
 
@@ -44,6 +45,9 @@ Build a full-stack Next.js dashboard application that demonstrates:
 - Basic authentication and protected routes
 - Dynamic routing and API routes
 - Database integration with Prisma
+- Modern UI implementation with component libraries
+- Consistent theming and responsive design
+- Accessible component patterns
 
 ### Level 2 Assessment: Enterprise Features
 

@@ -1,4 +1,4 @@
-# Lesson 6: Quality Engineering - Comprehensive Testing, Security Compliance & Performance Optimization
+# Lesson 7: Quality Engineering - Comprehensive Testing, Security Compliance & Performance Optimization
 
 ## Overview
 
@@ -84,4 +84,4 @@ This lesson focuses on modern quality engineering practices for Next.js applicat
 
 ## Next Steps
 
-Continue to [Lesson 7: Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing](./lesson-7-vercel-1.md) to learn about cloud deployment and edge computing capabilities.
+Continue to [Lesson 8: Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing](./lesson-8-vercel-1.md) to learn about cloud deployment and edge computing capabilities.

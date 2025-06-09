@@ -1,4 +1,4 @@
-# Lesson 4: Enterprise React Architecture - Backend for Frontend (BFF) Pattern & Secure Authentication
+# Lesson 5: Enterprise React Architecture - Backend for Frontend (BFF) Pattern & Secure Authentication
 
 ## Overview
 
@@ -77,6 +77,7 @@ The exercises for this lesson are based on building a full-stack Next.js applica
    - Handle authentication data properly
 
 4. [Connection Pooling with Serverless Functions](https://vercel.com/guides/connection-pooling-with-serverless-functions)
+
    - Learn best practices for database connections
    - Optimize API performance
    - Handle concurrent requests efficiently
@@ -106,4 +107,4 @@ The combination of these tutorials will give you hands-on experience with:
 
 ## Next Steps
 
-Continue to [Lesson 5: Global-Ready Applications - Internationalization, Progressive Web Apps & Containerized Deployment](./lesson-5-enterprise-react-2.md) to learn about internationalization (i18n), Progressive Web Apps (PWA), and Docker deployment.
+Continue to [Lesson 6: Global-Ready Applications - Internationalization, Progressive Web Apps & Containerized Deployment](./lesson-6-enterprise-react-2.md) to learn about internationalization (i18n), Progressive Web Apps (PWA), and Docker deployment.

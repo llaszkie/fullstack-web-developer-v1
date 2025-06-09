@@ -1,4 +1,4 @@
-# Lesson 5: Global-Ready Applications - Internationalization, Progressive Web Apps & Containerized Deployment
+# Lesson 6: Global-Ready Applications - Internationalization, Progressive Web Apps & Containerized Deployment
 
 ## Overview
 
@@ -68,10 +68,12 @@ Follow these tutorials in order to implement global-ready features in your Next.
 
 2. Progressive Web App with Next.js
    Follow these resources in sequence:
+
    - [Official Next.js PWA Guide](https://nextjs.org/docs/app/guides/progressive-web-apps)
    - [Building a PWA with Next.js (Video Tutorial)](https://www.youtube.com/watch?v=2ipasAxK5H8)
 
    Implementation steps:
+
    - Configure next-pwa for your application
    - Add offline support with service workers
    - Create app manifest and icons
@@ -112,4 +114,4 @@ The combination of these tutorials will give you hands-on experience with:
 
 ## Next Steps
 
-Continue to [Lesson 6: Modern Cloud Architecture - Vercel Deployment Strategies & Edge Computing](./lesson-6-vercel-1.md) to learn about cloud deployment and edge runtime capabilities.
+Continue to [Lesson 7: Quality Engineering - Comprehensive Testing, Security Compliance & Performance Optimization](./lesson-7-qa-testing.md) to learn about testing, security, and performance optimization.
