@@ -18,7 +18,16 @@ You should understand:
 **Resources:**
 
 - [MDN Web Development Learning Path](https://developer.mozilla.org/en-US/docs/Learn)
+  - Required modules: HTML, CSS, and JavaScript fundamentals
+  - Skip: "JavaScript frameworks and libraries" sections (React will be covered in our course)
+  - Optional: "Accessibility on the web" (recommended but not required for course start)
+  - Focus on: DOM manipulation, async JavaScript, and forms
 - [JavaScript.info](https://javascript.info/)
+  - Required Part 1: JavaScript Fundamentals, Objects, Data Types, Functions
+  - Required Part 2: DOM manipulation, Events, Promises, Async/await
+  - Skip: Web Components, Regular Expressions (can learn later if needed)
+  - Optional: Advanced working with functions, Modules (recommended but not critical)
+  - Focus on: Modern methods of Objects/Arrays, Destructuring, Event handling
 - [CSS Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
@@ -34,7 +43,26 @@ To succeed in this course, you should be comfortable with:
 **Resources to Get Up to Speed:**
 
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+  - Required chapters:
+    - The Basics (types, interfaces, functions)
+    - Everyday Types (arrays, objects, unions)
+    - Functions (typing parameters and returns)
+    - Object Types (interfaces vs types)
+  - Important but can learn during course:
+    - Narrowing
+    - Type Manipulation
+    - Classes
+  - Skip for now:
+    - Decorators
+    - Utility Types (will cover as needed)
+    - Declaration Files
+  - Focus on:
+    - Type inference in React contexts
+    - Generic type patterns
+    - async/await typing
 - [TypeScript Exercise Challenges](https://typescript-exercises.github.io/)
+  - Complete exercises 1-7 (core concepts)
+  - Exercises 8-16 are optional but recommended
 - Practice Project: Convert a small JavaScript project to TypeScript
 
 ### Git & GitHub
@@ -184,21 +212,6 @@ Before starting the main course, ensure you can:
 - [DEV Community](https://dev.to/) - Community-driven programming articles
 - [JavaScript Weekly](https://javascriptweekly.com/) - Weekly JavaScript news and articles
 - [TypeScript Weekly](https://typescript-weekly.com/) - Latest TypeScript updates and tips
-
-### Practice Projects
-
-1. Build a TypeScript-based Task Manager
-   - Implement CRUD operations
-   - Use local storage
-   - Practice type definitions
-2. Create a Responsive Portfolio
-   - Use modern CSS features
-   - Implement accessibility best practices
-   - Practice semantic HTML
-3. Build a GitHub Repository Explorer
-   - Use GitHub's REST API
-   - Handle async operations
-   - Implement error handling
 
 ## Next Steps
 
