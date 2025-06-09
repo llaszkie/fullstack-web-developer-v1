@@ -2,6 +2,8 @@
 
 Welcome to the documentation for the Full-Stack Web Developer Course. This comprehensive guide provides detailed information about each lesson in the course, organized into three proficiency levels.
 
+![Modern office workspace representing your learning environment](../images/office-932926_1920.jpg)
+
 > 📚 **New to the course?** Start with our [Preparatory Materials](./lesson-0-elementary.md) to ensure you meet all prerequisites.
 
 ## Course Structure
