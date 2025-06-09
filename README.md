@@ -1,6 +1,6 @@
 # Full-Stack Web Developer Course
 
-This repository contains the code base for an instructor-led course aimed at upskilling towards full-stack development leveraging modern web technologies.
+This repository contains the code base for an instructor-accompanied course aimed at up-skilling towards full-stack development leveraging modern web technologies.
 
 ## Course Overview
 
