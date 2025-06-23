@@ -66,4 +66,4 @@ Please complete both tutorials in order, as they complement each other:
 
 ## Next Steps
 
-Continue to [Lesson 2: Next.js Foundations - Architecture, Routing, and Project Configuration](./lesson-2-nextjs-basics.md) to learn how to leverage Next.js for building full-stack React applications.
+Continue to [Lesson 2: Building Modern UIs with Component Libraries](./lesson-2-ui-libraries.md) to learn how to create beautiful, accessible, and consistent UIs using popular component libraries.

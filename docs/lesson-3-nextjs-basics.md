@@ -1,4 +1,4 @@
-# Lesson 2: Next.js Foundations - Architecture and SEO
+# Lesson 3: Next.js Foundations - Architecture and SEO
 
 ## Overview
 
@@ -101,4 +101,4 @@ Please follow the tutorial and complete all chapters to get hands-on practice wi
 
 ## Next Steps
 
-Continue to [Lesson 4: Advanced Next.js - Building a Full-Stack Dashboard Application](./lesson-3-nextjs-full.md) to learn about the Next.js App Router and build a full-featured dashboard application.
+Continue to [Lesson 4: Advanced Next.js - Building a Full-Stack Dashboard Application](./lesson-4-nextjs-full.md) to learn about the Next.js App Router and build a full-featured dashboard application.

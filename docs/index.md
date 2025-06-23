@@ -14,9 +14,9 @@ _Build core competencies in React and Next.js_
 
 0. [Prerequisites and Environment Setup](./lesson-0-elementary.md)
 1. [Mastering React Fundamentals - Components, Hooks, and State Management](./lesson-1-react-fundamentals.md)
-2. [Next.js Foundations - Architecture and SEO Optimization](./lesson-2-nextjs-basics.md)
-3. [Advanced Next.js - Building a Full-Stack Dashboard Application](./lesson-3-nextjs-full.md)
-4. [Building Modern UIs with Component Libraries](./lesson-4-ui-libraries.md)
+2. [Building Modern UIs with Component Libraries](./lesson-2-ui-libraries.md)
+3. [Next.js Foundations - Architecture and SEO Optimization](./lesson-3-nextjs-basics.md)
+4. [Advanced Next.js - Building a Full-Stack Dashboard Application](./lesson-4-nextjs-full.md)
 
 ### Level 2: Professional Development 🚀
 

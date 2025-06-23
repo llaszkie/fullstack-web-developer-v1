@@ -1,4 +1,4 @@
-# Lesson 3: Advanced Next.js - Building a Full-Stack Dashboard Application
+# Lesson 4: Advanced Next.js - Building a Full-Stack Dashboard Application
 
 ## Overview
 
@@ -85,4 +85,4 @@ Please clone the template repository and follow along with the course materials 
 
 ## Next Steps
 
-Continue to [Lesson 4: Building Modern UIs with Component Libraries](./lesson-4-ui-libraries.md) to learn how to enhance your dashboard with professional UI components, consistent theming, and accessible patterns. This module will prepare you for enterprise-level development covered in the following lessons.
+Continue to [Lesson 5: Enterprise React Architecture](./lesson-5-enterprise-react-1.md) to learn about Backend for Frontend pattern and secure authentication.
