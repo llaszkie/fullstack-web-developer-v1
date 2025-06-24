@@ -2,7 +2,7 @@
 
 ## Overview
 
-This bridge lesson focuses on using modern UI component libraries to build professional, accessible, and consistent user interfaces. You'll learn how to integrate, customize, and effectively use component libraries in your Next.js applications.
+This bridge lesson focuses on using modern UI component libraries to build professional, accessible, and consistent user interfaces. You'll learn how to integrate, customize, and effectively use component libraries in your Vite applications.
 
 ## Learning Objectives
 
@@ -52,7 +52,7 @@ Follow these tutorials to master modern UI development:
 
 1. [Building Your Component System with Shadcn/UI](https://ui.shadcn.com/docs)
 
-   - Set up Shadcn/UI in Next.js
+   - Set up Shadcn/UI in Vite
    - Customize components and themes
    - Create component variations
    - Build a complete UI system
@@ -80,7 +80,7 @@ Follow these tutorials to master modern UI development:
 
 5. [Building a Complete Admin Dashboard](https://www.youtube.com/watch?v=SjsQdfvxjL8)
    - Follow along with the [GitHub repository](https://github.com/safak/nextjs-admin-dashboard)
-   - Implement modern dashboard UI with Next.js 14
+   - Implement modern dashboard UI with Vite + React
    - Create responsive admin panels
    - Build complex data visualizations
    - Integrate multiple component libraries
